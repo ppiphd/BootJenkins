@@ -26,5 +26,6 @@ pageEncoding="utf-8"%>
 
     <img alt="" src="../2.jpg" style="width: 300px" />
     <img alt="" src="../3.jpg" style="width: 300px" />
+    <img alt="" src="../4.jpg" style="width: 300px" />
   </body>
 </html>
